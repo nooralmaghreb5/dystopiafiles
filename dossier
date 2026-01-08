@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOSSIER - Dystopia Files</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <main class="container">
+  <header class="hero">
+  <h1>dystopia files</h1>
+  <p>
+   you are being watched! be wary - prosecution looms
+  </p>
+</header>
+
+    <hr>
+
+ <section class="notice-img">
+  <img src="notice.png" alt="Notice">
+</section>
+
+    <section>
+      <h2>pick your poison ☠️</h2>
+      <ul>
+        <li><a href="album.html">MUGSHOTS</a> — street frames / city evidence</li>
+        <li><a href="lyrics.html">WIRETAPS</a> — hooks, verses, fragments</li>
+        <li><a href="prose.html">ALIBI</a> — memoir notes / short scenes</li>
+        <li><a href="relevant.html">RELEVANT CASES</a> — memoir notes / short scenes</li>
+      </ul>
+    </section>
+    
+    <footer>
+   <section class="footer-card">
+     <p>© TRESPASSERS ARCHIVE — UPDATED IRREGULARLY</p>
+  </section>
+    </footer>
+  </main>
+</body>
+</html>
