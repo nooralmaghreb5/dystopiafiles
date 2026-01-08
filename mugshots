@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MUGSHOTS — Dystopia Files</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <main class="container">
+    <header class="hero">
+      <h1>Album</h1>
+      <p class="subtitle">MUGSHOTS</p>
+      <p>
+        mugshots of the dark reality.
+      </p>
+    </header>
+
+    <hr>
+
+    <nav class="nav">
+      <a href="index.html">DOSSIER</a>
+      <a href="lyrics.html">WIRETAPS</a>
+      <a href="prose.html">ALIBIS</a>
+      <a href="related.html">RELATED CASES</a>
+      
+      
+    </nav>
+
+    <section class="gallery" aria-label="Photo gallery">
+      <!-- Replace the src values with your real image filenames -->
+      <figure class="card">
+        <img src="photo-01.jpg" alt="Photo 01">
+        <figcaption>ENTRY 001 — “Corner light. Someone waiting.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-02.jpg" alt="Photo 02">
+        <figcaption>ENTRY 002 — “The quiet camera angle.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-03.jpg" alt="Photo 03">
+        <figcaption>ENTRY 003 — “Posters over posters. History repeating.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-04.jpg" alt="Photo 04">
+        <figcaption>ENTRY 004 — “Reflections: multiple versions of the same place.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-05.jpg" alt="Photo 05">
+        <figcaption>ENTRY 005 — “Footsteps, then silence.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-06.jpg" alt="Photo 06">
+        <figcaption>ENTRY 006 — “Nothing illegal. Nothing calm.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-07.jpg" alt="Photo 07">
+        <figcaption>ENTRY 007 — “A normal day, under abnormal rules.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-08.jpg" alt="Photo 08">
+        <figcaption>ENTRY 008 — “Exit signs and unspoken threats.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-09.jpg" alt="Photo 09">
+        <figcaption>ENTRY 009 — “Someone watched the watcher.”</figcaption>
+      </figure>
+
+      <figure class="card">
+        <img src="photo-10.jpg" alt="Photo 10">
+        <figcaption>ENTRY 010 — “Evidence bag: city air.”</figcaption>
+      </figure>
+    </section>
+
+    <footer>
+      <p>Return carefully — <a href="index.html">Home</a></p>
+    </footer>
+  </main>
+</body>
+</html>
