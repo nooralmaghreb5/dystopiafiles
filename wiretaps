@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WIRETAPS — Dystopia Files</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <main class="container">
+    <header class="hero">
+      <h1>WIRETAPS</h1>
+      <p>hooks, verses - fragments. read as evidence.</p>
+    </header>
+
+    <hr>
+
+   <nav class="nav">
+      <a href="index.html">DOSSIER</a>
+      <a href="album.html">MUGSHOTS</a>
+      <a href="prose.html">ALIBIS</a>
+      <a href="related.html">RELATED CASES</a>
+      
+    </nav>
+
+    <!-- TRACK / BLOCK 01 -->
+    <section class="lyric-block">
+      
+      <h2>scheme 2 survive</h2>
+      
+       <div class="lyric-cover">
+    <img src="scheme-2-survive.jpg" alt="Scheme 2 Survive cover">
+    <p class="cover-caption">Single artwork — archival record</p>
+  </div>
+      
+      <pre class="lyrics">
+Goodbye 9 to 5, am I living to live.
+or living blink to blink.
+
+Good morning boss, please pay rise.
+Good employee, I am, I cries.
+
+Most of the monies I get from you is just to
+serve you.
+
+A shack, some tuna, noodles and gas queues.
+Who knew?
+
+That we would be slaves in 2026.
+Track 12 explains pain and 1996.
+
+Brave New World, ghost girl, cute curls.
+Save your pearls, post twirl, flute cowgirl.
+      </pre>
+      <p class="credit">Composed by Commander Noor, reviewed by Footnotes</p>
+    </section>
+
+
+    <!-- TRACK / BLOCK 02 -->
+    <section class="lyric-block">
+      <h2>they felt it</h2>
+      
+       <div class="lyric-cover">
+    <img src="theyfeltit.jpg" alt="they felt it cover">
+    <p class="cover-caption">Single artwork — archival record</p>
+  </div>
+      
+      <pre class="lyrics">
+They see the drip,
+I thrifted it.
+
+Yo bitch,
+Wanted it.
+
+Took her air fryer,
+then dipped.
+Chicken Fingers.
+
+scheming the gp,
+codeine,
+sold it to a fiend.
+
+trapping for survival,
+still reading bible.
+
+still alive bro,
+rest in peace nigel
+
+sophie taught me plath
+streets taught me strap
+
+they anxious
+they not gangstas
+
+      </pre>
+      <p class="credit">Composed by Commander Noor, reviewed by Footnotes</p>
+    </section>
+
+    <footer>
+      <p>Return carefully — <a href="index.html">Home</a></p>
+    </footer>
+  </main>
+</body>
+</html>
